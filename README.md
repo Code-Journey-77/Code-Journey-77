@@ -1,13 +1,19 @@
 # **CODE JOURNEY**
 ### **Senior Full-Stack Engineer** • **Open Source**
-#### *Crafting high-performance digital experiences with a human-centric approach.*
+#### *Full-stack engineer who enjoys turning messy ideas into clean, scalable systems.*
+
+## **A bit about me**
+I’m Code Journey, A full-stack software engineer with a track record of helping startups and growing teams turn messy requirements into clean, scalable systems. I care deeply about the why behind every technical decision, not just the implementation.
+
+When I’m not shipping features, I’m contributing to open source, writing about what I’ve learned, or quietly obsessing over developer experience. I believe the best code is the kind that empowers your team, not the kind that gets in its way.
 
 ## **Philosophy & Approach**
 I believe that code is only as good as the problem it solves. My approach focuses on **purpose-driven engineering** bridging the gap between complex infrastructure and human-centric design. I don’t just deliver projects; I architect scalable futures that grow with your vision.
 
 
 ## **Technical Ecosystem**
-I specialize in high-performance stacks designed for speed, reliability, and developer experience.
+My tech stack — chosen for speed, reliability, and developer experience.
+
 
 | Frontend | Backend | Database | CMS | DevOps |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,16 +33,21 @@ I believe in giving back to the community that builds the web.
 
 
 
-## Services for Growing Businesses
+## What I Can Help You 
+Whether you're a startup finding your footing or a growing team scaling fast, here's where I add the most value:
+
 
 | Expertise | Value Provided |
 | :--- | :--- |
-| **Enterprise Web Development** | Scalable, SEO-optimized platforms built with Next.js. |
-| **Bento-style UI/UX** | Modern, grid-based layouts that drive conversion and engagement. |
-| **Headless CMS Strategy** | Empowering teams to manage content without developer friction. |
-| **Custom Automation** | Reducing operational overhead with bespoke internal tools. |
-| **Cloud-Native Design** | Resilient backend architectures designed for zero downtime. |
-
+| **Frontend Architecture** | Building scalable, maintainable UI systems with modern frameworks, focusing on performance, accessibility, and clean component design. |
+| **Backend Architecture** | Designing robust APIs, services, and data layers with strong emphasis on scalability, security, and maintainability. |
+| **Full Stack System Design** | Architecting end-to-end systems that connect frontend, backend, and infrastructure seamlessly. |
+| **Headless CMS** | Creating flexible content systems using Sanity, Strapi, or custom CMS solutions for better content workflows. |
+| **API Design & Integration** | Designing clean, predictable APIs and integrating third-party services efficiently. |
+| **Database Design** | Structuring relational and NoSQL databases for performance, scalability, and data integrity. |
+| **Performance Optimization** | Improving load times, reducing bottlenecks, and delivering fast, smooth user experiences. |
+| **SEO Optimization** | Implementing technical SEO best practices including metadata, structured data, and performance tuning. |
+| **Testing & Quality** | Ensuring reliability through testing, validation, and clean engineering practices. |
 ---
 
 ## Deep Dives & Insights
