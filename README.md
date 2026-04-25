@@ -1,5 +1,5 @@
 # **CODE JOURNEY**
-### **Senior Full-Stack Engineer** • **Open Source**
+### **Senior Full-Stack Engineer** • **Open Source** • **Freelance Developer**
 #### *Full-stack engineer who enjoys turning messy ideas into clean, scalable systems.*
 
 ## **A bit about me**
