@@ -1,8 +1,6 @@
 # **CODE JOURNEY**
-### **Senior Full-Stack Engineer** • **Product Strategy** • **Open Source**
+### **Senior Full-Stack Engineer** • **Open Source**
 #### *Crafting high-performance digital experiences with a human-centric approach.*
-
-[**Portfolio**](https://harshil-web-dev.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/agola-harshil) • [**Email**](mailto:agolaharshil95@gmail.com)
 
 ## **Philosophy & Approach**
 I believe that code is only as good as the problem it solves. My approach focuses on **purpose-driven engineering** bridging the gap between complex infrastructure and human-centric design. I don’t just deliver projects; I architect scalable futures that grow with your vision.
@@ -44,15 +42,14 @@ I believe in giving back to the community that builds the web.
 ## Deep Dives & Insights
 I share my journey and technical insights to help other developers grow.
 
-[**Visit the Code Journey Blog**](https://code-journey-dev.vercel.app/)
+[![Medium](./buttons/medium.svg)](https://medium.com/@codejourney.info) [![Resources](./buttons/resources.svg)](https://code-journey-dev.vercel.app)
 
 ---
 
 ## Let’s Start Your Journey
 I’m currently taking on new projects and architectural consultations.
 
-[![Hire Me](https://img.shields.io/badge/💼_Work_Together-Let's_Talk-6366f1?style=for-the-badge)](https://harshil-web-dev.vercel.app/contact)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agola-harshil)
+[![Portfolio](./buttons/portfolio.svg)](https://harshil-web-dev.vercel.app/contact) [![LinkedIn](./buttons/linkedin.svg)](https://www.linkedin.com/in/agola-harshil) [![Email](./buttons/email.svg)](mailto:agolaharshil95@gmail.com)
 
 *"Transparency is my default. I don't just solve problems; I explain the 'why' so you're never in the dark."*
 
