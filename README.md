@@ -50,15 +50,15 @@ Whether you're a startup finding your footing or a growing team scaling fast, he
 | **Testing & Quality** | Ensuring reliability through testing, validation, and clean engineering practices. |
 ---
 
-## Deep Dives & Insights
-I share my journey and technical insights to help other developers grow.
+## Writing & Notes from the Field
+I write about what I actually encounter — not tutorials recycled from documentation. If you've ever Googled something and found nothing useful, that's usually the kind of thing I end up writing about.
 
 [![Medium](./buttons/medium.svg)](https://medium.com/@codejourney.info) [![Resources](./buttons/resources.svg)](https://code-journey-dev.vercel.app)
 
 ---
 
 ## Let’s Start Your Journey
-I’m currently taking on new projects and architectural consultations.
+I'm currently open to new projects and architectural consultations. I prefer async communication, drop me a message and I'll usually reply within a day. If you're unsure whether what you're building is something I can help with, just ask.
 
 [![Portfolio](./buttons/portfolio.svg)](https://harshil-web-dev.vercel.app/contact) [![LinkedIn](./buttons/linkedin.svg)](https://www.linkedin.com/in/agola-harshil) [![Email](./buttons/email.svg)](mailto:agolaharshil95@gmail.com)
 
